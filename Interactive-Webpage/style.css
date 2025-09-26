@@ -1,0 +1,18 @@
+/* Light/Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: #f0f0f0;
+}
+
+/* FAQ Styling */
+.faq-answer {
+    display: none;
+    margin-left: 20px;
+}
+
+/* Button Styling */
+button {
+    padding: 8px 16px;
+    margin: 5px;
+    cursor: pointer;
+}
